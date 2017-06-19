@@ -1,2 +1,2 @@
-# The-GAN-World
+# The GAN World
 Everything about Generative Adversarial Networks
