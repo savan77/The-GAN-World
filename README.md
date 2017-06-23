@@ -3,7 +3,7 @@ Everything about Generative Adversarial Networks
 
 ## Table of Contents
 - [Papers](#Papers)
-- [Tutorials, Blogs and Talks](#Tutorials, Blogs and Talks)
+- [Tutorials, Blogs and Talks](#Tutorials-Blogs-Talks)
 - [Books](#Books)
 - [Videos](#Videos)
 - [Software](#Software)
@@ -12,7 +12,7 @@ Everything about Generative Adversarial Networks
 
 
 ## Papers
-- [1 - Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+* [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
 
 ## Tutorials, Blogs and Talks
