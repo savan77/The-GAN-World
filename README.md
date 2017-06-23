@@ -10,7 +10,7 @@ Everything about Generative Adversarial Networks
 - [Other Resources](#other)
 
 ## Introduction
-Generative Adversarial Networks are very popular generative models which can be trained to generate synthetic data that is similar to the training data. Basic idea behind GANs is, we have two models, one called **Generator** and another called **Discriminator**. Generator takes some noise as an input and tries to generate an output similar to the training data. Then, this generated data(fake data) along with original data from training dataset is fed into disciminator. Here, discriminator tries to distinguish between original data and fake data. 
+Generative Adversarial Networks are very popular generative models which can be trained to generate synthetic data that is similar to the training data. Basic idea behind GANs is, we have two models, one called **Generator** and another called **Discriminator**. Generator takes some noise as an input and produces synthetic data. Then, this generated data(fake data) along with original data from training dataset is fed into disciminator. Here, discriminator tries to distinguish between original data and fake data. In other words, GANs learn a probability distribution of the training data which we can use later to sample the data from it. GANs are so popular that every week new paper on GAN is coming out.
 
 ## Papers
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - The original paper on GAN by Ian Goodfellow et al(2014).
