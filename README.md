@@ -30,6 +30,10 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### Vanilla GAN
 * [Vanilla GAN implementation in PyTorch and TensorFlow](https://github.com/wiseodd/generative-models/tree/master/GAN/vanilla_gan)
 
+### Deep Convolutional Generative Adversarial Networks
+* [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow)
+* [A torch implementation of DCGAN](https://github.com/soumith/dcgan.torch)
+
 ## Datasets
 * [CelebA : 202,599 number of face images](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 * [MNIST : 70,000 images of hand-written digits](http://yann.lecun.com/exdb/mnist/)
