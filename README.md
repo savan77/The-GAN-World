@@ -41,7 +41,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### MAGAN: Margin Adaptation for Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1704.03817)]
 * [TensorFlow and PyTorch implementation of MAGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/magan)
 
-### InfoGAN : Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1606.03657)
+### InfoGAN : Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1606.03657)]
 * [TensorFlow and PyTorch implementation of InforGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/infogan)
 
 ### SEGAN : Speech Enhancement Generative Adversarial Networks [[Paper](https://arxiv.org/pdf/1703.09452.pdf)]
