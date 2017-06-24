@@ -13,7 +13,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 
 ## Papers and Code
 
-### Generative Adversarial Networks [Paper](https://arxiv.org/abs/1406.2661)
+### Generative Adversarial Networks [[#### Paper](https://arxiv.org/abs/1406.2661)]
 * [Vanilla GAN implementation in PyTorch and TensorFlow](https://github.com/wiseodd/generative-models/tree/master/GAN/vanilla_gan)
 
 ### Deep Convolutional Generative Adversarial Networks [Paper](https://arxiv.org/abs/1511.06434)
