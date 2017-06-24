@@ -41,8 +41,11 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### MAGAN: Margin Adaptation for Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1704.03817)]
 * [TensorFlow and PyTorch implementation of MAGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/magan)
 
-### InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1606.03657)
+### InfoGAN : Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1606.03657)
 * [TensorFlow and PyTorch implementation of InforGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/infogan)
+
+### SEGAN : Speech Enhancement Generative Adversarial Networks [[Paper](https://arxiv.org/pdf/1703.09452.pdf)]
+* [TensorFlow implementation of SEGAN](https://github.com/santi-pdp/segan)
 
 ### Conditional Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1411.1784)]
 * [TensorFlow and PyTorch implementation of CGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/conditional_gan)
@@ -61,6 +64,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [NIPS 2016 Tutorial on Generative Adversarial Networks by Ian Goodfellow](https://arxiv.org/abs/1701.00160) - This tutorial by Ian Goodfellow (Inventor of GAN) covers almost everything you need to get started with Generative Adversarial Networks. You will get to know about- Why you should study generative models and GANs?, How GAN works?, Research frontiers in GANs and more. 
 * [Generative Adversarial Networks in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 * [Generative Models by OpenAI](https://blog.openai.com/generative-models/)
+* [How to train a GAN? Tips and Tricks to make GANs work](https://github.com/soumith/ganhacks)
 * [Generative Adversarial Networks in TensorFlow](http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 * [GANs, some open questions](http://www.offconvex.org/2017/03/15/GANs/)
 * [An Introduction to GAN (TensorFlow)](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
