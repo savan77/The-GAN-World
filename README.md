@@ -13,40 +13,40 @@ Generative Adversarial Networks are very popular generative models which can be 
 
 ## Papers and Code
 
-### Generative Adversarial Networks [[#### Paper](https://arxiv.org/abs/1406.2661)]
+### Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1406.2661)]
 * [Vanilla GAN implementation in PyTorch and TensorFlow](https://github.com/wiseodd/generative-models/tree/master/GAN/vanilla_gan)
 
-### Deep Convolutional Generative Adversarial Networks [Paper](https://arxiv.org/abs/1511.06434)
+### Deep Convolutional Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1511.06434)]
 * [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow)
 * [A torch implementation of DCGAN](https://github.com/soumith/dcgan.torch)
 
-### Wasserstein GAN [Paper](https://arxiv.org/abs/1701.07875)
+### Wasserstein GAN [[Paper](https://arxiv.org/abs/1701.07875)]
 * [PyTorch implementation of Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 * [TensorFlow implementation of Wasserstein GAN](https://github.com/shekkizh/WassersteinGAN.tensorflow)
 
-### DiscoGAN [Paper](https://arxiv.org/abs/1703.05192)
+### DiscoGAN [[Paper](https://arxiv.org/abs/1703.05192)]
 * [PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
 * [TensorFlow and PyTorch implementation of DiscoGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/disco_gan)
 
-### Energy-based Generative Adversarial Network
+### Energy-based Generative Adversarial Network [[Paper](https://arxiv.org/abs/1609.03126)]
 * [TensorFlow and PyTorch implementaion of EBGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/ebgan)
 
-### BEGAN
+### Boundary Equilibrium GAN [[Paper](https://arxiv.org/abs/1703.10717)]
 * [TensorFlow implementation of Boundary Equilibrium Generative Adversarial Networks](https://github.com/carpedm20/BEGAN-tensorflow)
 
-### Coupled Generative Adversarial Networks
+### Coupled Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1606.07536)]
 * [TensorFlow and PyTorch implementation of COGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/coupled_gan)
 
-### MAGAN: Margin Adaptation for Generative Adversarial Networks
+### MAGAN: Margin Adaptation for Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1704.03817)]
 * [TensorFlow and PyTorch implementation of MAGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/magan)
 
-### InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+### InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1606.03657)
 * [TensorFlow and PyTorch implementation of InforGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/infogan)
 
-### Conditional Generative Adversarial Nets
+### Conditional Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1411.1784)]
 * [TensorFlow and PyTorch implementation of CGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/conditional_gan)
 
-### Boundary-Seeking Generative Adversarial Networks
+### Boundary-Seeking Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1702.08431)]
 * [TensorFlow and PyTorch implementation of Boundary-Seeking GAN](https://github.com/wiseodd/generative-models/tree/master/GAN/boundary_seeking_gan)
 
 ## Tutorials, Blogs and Talks
