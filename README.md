@@ -3,17 +3,51 @@ Everything about Generative Adversarial Networks
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Papers](#Papers)
+- [Papers and Code](#Papers)
 - [Tutorials, Blogs and Talks](#Tutorials-Blogs-Talks)
-- [Implementations](#Implementations)
 - [Datasets](#Datasets)
 - [Other Resources](#other)
 
 ## Introduction
 Generative Adversarial Networks are very popular generative models which can be trained to generate synthetic data that is similar to the training data. Basic idea behind GANs is, we have two models, one called **Generator** and another called **Discriminator**. Generator takes some noise as an input and produces synthetic data. Then, this generated data(fake data) along with original data from training dataset is fed into disciminator. Here, discriminator tries to distinguish between original data and fake data. In other words, GANs learn a probability distribution of the training data which we can use later to sample the data from it. GANs are so popular that every week new paper on GAN is coming out.
 
-## Papers
-* [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - The original paper on GAN by Ian Goodfellow et al(2014).
+## Papers and Code
+
+### Generative Adversarial Networks [Paper](https://arxiv.org/abs/1406.2661)
+* [Vanilla GAN implementation in PyTorch and TensorFlow](https://github.com/wiseodd/generative-models/tree/master/GAN/vanilla_gan)
+
+### Deep Convolutional Generative Adversarial Networks [Paper](https://arxiv.org/abs/1511.06434)
+* [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow)
+* [A torch implementation of DCGAN](https://github.com/soumith/dcgan.torch)
+
+### Wasserstein GAN [Paper](https://arxiv.org/abs/1701.07875)
+* [PyTorch implementation of Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
+* [TensorFlow implementation of Wasserstein GAN](https://github.com/shekkizh/WassersteinGAN.tensorflow)
+
+### DiscoGAN [Paper](https://arxiv.org/abs/1703.05192)
+* [PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
+* [TensorFlow and PyTorch implementation of DiscoGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/disco_gan)
+
+### Energy-based Generative Adversarial Network
+* [TensorFlow and PyTorch implementaion of EBGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/ebgan)
+
+### BEGAN
+* [TensorFlow implementation of Boundary Equilibrium Generative Adversarial Networks](https://github.com/carpedm20/BEGAN-tensorflow)
+
+### Coupled Generative Adversarial Networks
+* [TensorFlow and PyTorch implementation of COGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/coupled_gan)
+
+### MAGAN: Margin Adaptation for Generative Adversarial Networks
+* [TensorFlow and PyTorch implementation of MAGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/magan)
+
+### InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+* [TensorFlow and PyTorch implementation of InforGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/infogan)
+
+### Conditional Generative Adversarial Nets
+* [TensorFlow and PyTorch implementation of CGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/conditional_gan)
+
+### Boundary-Seeking Generative Adversarial Networks
+* [TensorFlow and PyTorch implementation of Boundary-Seeking GAN](https://github.com/wiseodd/generative-models/tree/master/GAN/boundary_seeking_gan)
 
 ## Tutorials, Blogs and Talks
 * [NIPS 2016 Tutorial on Generative Adversarial Networks by Ian Goodfellow](https://arxiv.org/abs/1701.00160) - This tutorial by Ian Goodfellow (Inventor of GAN) covers almost everything you need to get started with Generative Adversarial Networks. You will get to know about- Why you should study generative models and GANs?, How GAN works?, Research frontiers in GANs and more. 
@@ -24,15 +58,6 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [An Introduction to GAN (TensorFlow)](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
 * [NIPS 2016 :  Generative Adversarial Network by Ian Goodfellow [Video]](https://www.youtube.com/watch?v=AJVyzd0rqdc)
 * [NIPS 2016 workshop on Adversarial Training [7 videos]](https://www.youtube.com/watch?v=RvgYvHyT15E&list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF)
-
-## Implementations
-
-### Vanilla GAN
-* [Vanilla GAN implementation in PyTorch and TensorFlow](https://github.com/wiseodd/generative-models/tree/master/GAN/vanilla_gan)
-
-### Deep Convolutional Generative Adversarial Networks
-* [A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"](https://github.com/carpedm20/DCGAN-tensorflow)
-* [A torch implementation of DCGAN](https://github.com/soumith/dcgan.torch)
 
 ## Datasets
 * [CelebA : 202,599 number of face images](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
