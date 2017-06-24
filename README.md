@@ -49,6 +49,13 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### Boundary-Seeking Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1702.08431)]
 * [TensorFlow and PyTorch implementation of Boundary-Seeking GAN](https://github.com/wiseodd/generative-models/tree/master/GAN/boundary_seeking_gan)
 
+### Softmax GAN [[Paper](https://arxiv.org/abs/1704.06191)]
+* [TensorFlow and PyTorch implementation of Softmax GAN](https://github.com/wiseodd/generative-models/tree/master/GAN/softmax_gan)
+
+### Cycle GAN [[Paper](https://arxiv.org/pdf/1703.10593.pdf)]
+* [TensorFlow implementaion of Cycle GAN](https://github.com/XHUJOY/CycleGAN-tensorflow)
+* [Torch implementation of Cycle GAN](https://github.com/junyanz/CycleGAN)
+
 ## Tutorials, Blogs and Talks
 * [NIPS 2016 Tutorial on Generative Adversarial Networks by Ian Goodfellow](https://arxiv.org/abs/1701.00160) - This tutorial by Ian Goodfellow (Inventor of GAN) covers almost everything you need to get started with Generative Adversarial Networks. You will get to know about- Why you should study generative models and GANs?, How GAN works?, Research frontiers in GANs and more. 
 * [Generative Adversarial Networks in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
@@ -62,6 +69,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 ## Datasets
 * [CelebA : 202,599 number of face images](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 * [MNIST : 70,000 images of hand-written digits](http://yann.lecun.com/exdb/mnist/)
+* [LSUN](http://www.yf.io/p/lsun)
 
 ## Other Resources
 * [Last chapter of Deep Learning Book : Deep Generative Models](https://www.deeplearningbook.org/contents/generative_models.html)
