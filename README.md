@@ -4,6 +4,7 @@ Everything about Generative Adversarial Networks
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Papers and Code](#Papers)
+- [Projects](#Projects)
 - [Tutorials, Blogs and Talks](#Tutorials-Blogs-Talks)
 - [Datasets](#Datasets)
 - [Other Resources](#other)
@@ -60,20 +61,47 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [TensorFlow implementaion of Cycle GAN](https://github.com/XHUJOY/CycleGAN-tensorflow)
 * [Torch implementation of Cycle GAN](https://github.com/junyanz/CycleGAN)
 
+### GAWWN : Generative Adversarial What-Where Network [[Paper](http://www.scottreed.info/files/nips2016.pdf)]
+* [Torch implementation of GAWWN](https://github.com/reedscot/nips2016)
+
+###  StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[Paper](https://arxiv.org/pdf/1612.03242v1.pdf)]
+* [TensorFlow implementation of StackGAN](https://github.com/hanzhanggit/StackGAN)
+
+## Projects
+* [Image Completion with Deep Learning in TensorFlow][[Blog](http://bamos.github.io/2016/08/09/deep-completion/)][[Github](https://github.com/bamos/dcgan-completion.tensorflow)]
+* [Image Super Resolution with Deep Learning][[Github](https://github.com/david-gpu/srez)]
+* [Neural Photo Editor : A simple interface for editing natural photos with generative neural networks][[Github](https://github.com/ajbrock/Neural-Photo-Editor)]
+* [iGAN : Interactive Image Generation via Generative Adversarial Networks][[Github](https://github.com/junyanz/iGAN)]
+* [CleverHans : A library for benchmarking vulnerability to adversarial examples][[Github](https://github.com/tensorflow/cleverhans)]
+* [VideoGAN : Generating Videos with Scene Dynamics][[Blog](http://carlvondrick.com/tinyvideo/)][[Github](https://github.com/cvondrick/videogan)]
+
+
 ## Tutorials, Blogs and Talks
 * [NIPS 2016 Tutorial on Generative Adversarial Networks by Ian Goodfellow](https://arxiv.org/abs/1701.00160) - This tutorial by Ian Goodfellow (Inventor of GAN) covers almost everything you need to get started with Generative Adversarial Networks. You will get to know about- Why you should study generative models and GANs?, How GAN works?, Research frontiers in GANs and more. 
+
+### Blogs
+
 * [Generative Adversarial Networks in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 * [Generative Models by OpenAI](https://blog.openai.com/generative-models/)
 * [How to train a GAN? Tips and Tricks to make GANs work](https://github.com/soumith/ganhacks)
 * [Generative Adversarial Networks in TensorFlow](http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 * [GANs, some open questions](http://www.offconvex.org/2017/03/15/GANs/)
 * [An Introduction to GAN (TensorFlow)](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
+* [BEGAN : State of the art generation of the faces with generative adversarial networks](https://blog.heuritech.com/2017/04/11/began-state-of-the-art-generation-of-faces-with-generative-adversarial-networks/)
+* [SimGANs : a game changer in unsupervised learning, self-driving cars and more](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
+* [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/)
+
+
+### Talks
 * [NIPS 2016 :  Generative Adversarial Network by Ian Goodfellow [Video]](https://www.youtube.com/watch?v=AJVyzd0rqdc)
 * [NIPS 2016 workshop on Adversarial Training [7 videos]](https://www.youtube.com/watch?v=RvgYvHyT15E&list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF)
 
 ## Datasets
 * [CelebA : 202,599 number of face images](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 * [MNIST : 70,000 images of hand-written digits](http://yann.lecun.com/exdb/mnist/)
+* [Imagenet](http://www.image-net.org/)
+* [Cifar 10 and 100](https://www.cs.toronto.edu/~kriz/cifar.html)
+* [COCO](http://mscoco.org/dataset/#overview)
 * [LSUN](http://www.yf.io/p/lsun)
 
 ## Other Resources
