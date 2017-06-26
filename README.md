@@ -68,12 +68,12 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [TensorFlow implementation of StackGAN](https://github.com/hanzhanggit/StackGAN)
 
 ## Projects
-* [Image Completion with Deep Learning in TensorFlow][[Blog](http://bamos.github.io/2016/08/09/deep-completion/)][[Github](https://github.com/bamos/dcgan-completion.tensorflow)]
-* [Image Super Resolution with Deep Learning][[Github](https://github.com/david-gpu/srez)]
-* [Neural Photo Editor : A simple interface for editing natural photos with generative neural networks][[Github](https://github.com/ajbrock/Neural-Photo-Editor)]
-* [iGAN : Interactive Image Generation via Generative Adversarial Networks][[Github](https://github.com/junyanz/iGAN)]
-* [CleverHans : A library for benchmarking vulnerability to adversarial examples][[Github](https://github.com/tensorflow/cleverhans)]
-* [VideoGAN : Generating Videos with Scene Dynamics][[Blog](http://carlvondrick.com/tinyvideo/)][[Github](https://github.com/cvondrick/videogan)]
+* Image Completion with Deep Learning in TensorFlow[[Blog](http://bamos.github.io/2016/08/09/deep-completion/)][[Github](https://github.com/bamos/dcgan-completion.tensorflow)]
+* Image Super Resolution with Deep Learning[[Github](https://github.com/david-gpu/srez)]
+* Neural Photo Editor : A simple interface for editing natural photos with generative neural networks[[Github](https://github.com/ajbrock/Neural-Photo-Editor)]
+* iGAN : Interactive Image Generation via Generative Adversarial Networks[[Github](https://github.com/junyanz/iGAN)]
+* CleverHans : A library for benchmarking vulnerability to adversarial examples[[Github](https://github.com/tensorflow/cleverhans)]
+* VideoGAN : Generating Videos with Scene Dynamics[[Blog](http://carlvondrick.com/tinyvideo/)][[Github](https://github.com/cvondrick/videogan)]
 
 
 ## Tutorials, Blogs and Talks
