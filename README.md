@@ -67,6 +67,18 @@ Generative Adversarial Networks are very popular generative models which can be 
 ###  StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[Paper](https://arxiv.org/pdf/1612.03242v1.pdf)]
 * [TensorFlow implementation of StackGAN](https://github.com/hanzhanggit/StackGAN)
 
+### Unsupervised Cross-Domain Image Generation [[Paper](https://arxiv.org/abs/1611.02200)]
+### Generative Adversarial Nets from a Density Ratio Estimation Perspective [[Paper](https://arxiv.org/abs/1610.02920)]
+### BCGAN : Bayesian Conditional Generative Adverserial Networks [[Paper](https://arxiv.org/abs/1706.05477)]
+### SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[Paper](https://arxiv.org/abs/1609.05473v5)]
+### Gang of GANs : Generative Adversarial Networks with Maximum Margin Ranking [[Paper](https://arxiv.org/abs/1704.04865)]
+### SketchGAN : Adversarial Training For Sketch Retrieval [[Paper](https://arxiv.org/abs/1607.02748)]
+### Unrolled Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1611.02163)]
+### TextureGAN : Controlling Deep Image Synthesis with Texture Patches [[Paper](https://arxiv.org/abs/1706.02823)]
+### Temporal Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1611.06624v1)]
+
+
+
 ## Projects
 * Image Completion with Deep Learning in TensorFlow[[Blog](http://bamos.github.io/2016/08/09/deep-completion/)][[Github](https://github.com/bamos/dcgan-completion.tensorflow)]
 * Image Super Resolution with Deep Learning[[Github](https://github.com/david-gpu/srez)]
@@ -95,6 +107,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### Talks
 * [NIPS 2016 :  Generative Adversarial Network by Ian Goodfellow [Video]](https://www.youtube.com/watch?v=AJVyzd0rqdc)
 * [NIPS 2016 workshop on Adversarial Training [7 videos]](https://www.youtube.com/watch?v=RvgYvHyT15E&list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF)
+* [Generalization and Equilibrium in Generative Adversarial Nets (GANs)[Video]](https://www.youtube.com/watch?v=V7TliSCqOwI)
 
 ## Datasets
 * [CelebA : 202,599 number of face images](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
