@@ -30,6 +30,9 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
 * [TensorFlow and PyTorch implementation of DiscoGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/disco_gan)
 
+### Bayesian GAN [[Paper](https://arxiv.org/abs/1705.09558)]
+* [TensorFlow implementation of Bayesian GAN](https://github.com/andrewgordonwilson/bayesgan/)
+
 ### Energy-based Generative Adversarial Network [[Paper](https://arxiv.org/abs/1609.03126)]
 * [TensorFlow and PyTorch implementaion of EBGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/ebgan)
 
