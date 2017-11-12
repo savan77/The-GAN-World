@@ -26,6 +26,9 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [PyTorch implementation of Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 * [TensorFlow implementation of Wasserstein GAN](https://github.com/shekkizh/WassersteinGAN.tensorflow)
 
+### Bayesian GAN [[Paper](https://arxiv.org/abs/1705.09558)]
+* [TensorFlow implementation of Bayesian GAN](https://github.com/andrewgordonwilson/bayesgan/)
+
 ### DiscoGAN [[Paper](https://arxiv.org/abs/1703.05192)]
 * [PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
 * [TensorFlow and PyTorch implementation of DiscoGAN](https://github.com/wiseodd/generative-models/tree/master/GAN/disco_gan)
