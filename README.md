@@ -11,7 +11,7 @@ Everything about Generative Adversarial Networks
 - [Contributing](#contribute)
 
 ## Introduction
-Generative Adversarial Networks are very popular generative models which can be trained to generate synthetic data that is similar to the training data. Basic idea behind GANs is, we have two models, one called **Generator** and another called **Discriminator**. Generator takes noise as an input and produces synthetic data. Then, this generated data(fake data) along with original data from training dataset is fed into disciminator. Here, discriminator tries to distinguish between original data and fake data. As learning proceeds generator learns to generate more and more realistic data and discriminator learns to get better at distinguishing generated and fake data. In other words, GANs learn a probability distribution of the training data which we can use later to sample the data from it. Here, we have two networks(generator and discriminator) which we need to train simultaneously. GANs are also famous for their unstable training, they are hard to train. But we have made great progress in this field especially in image generation. As of now, we have GAN models which can generate high-resolution realistic images.  GANs are so popular that every week new paper on GAN is coming out. This repository contains various resources which can be used to learn or implement GAN. I will keep updating this repository with latest resources and I also intend to add jupyter notebooks on GAN soon.
+Generative Adversarial Networks are very popular generative models which can be trained to generate synthetic data that is similar to the training data. Basic idea behind GANs is, we have two models, one called **Generator** and another called **Discriminator**. Generator takes noise as an input and produces synthetic data. Then, this generated data(fake data) along with original data from training dataset is fed into disciminator. Here, discriminator tries to distinguish between original data and fake data. As learning proceeds generator learns to generate more and more realistic data and discriminator learns to get better at distinguishing generated and fake data. In other words, GANs learn a probability distribution of the training data which we can use later to sample the data from it. Here, we have two networks(generator and discriminator) which we need to train simultaneously. GANs are also famous for their unstable training, they are hard to train. But we have made great progress in this field especially in image generation. As of now, we have GAN models which can generate high-resolution realistic images.  GANs are so popular that every week new paper on GAN is coming out. This repository contains various resources which can be used to learn or implement GAN.
 
 ## Papers and Code
 
@@ -25,6 +25,9 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### Wasserstein GAN [[Paper](https://arxiv.org/abs/1701.07875)]
 * [PyTorch implementation of Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 * [TensorFlow implementation of Wasserstein GAN](https://github.com/shekkizh/WassersteinGAN.tensorflow)
+
+### Bayesian GAN [[Paper](https://arxiv.org/abs/1705.09558)]
+* [TensorFlow implementation of Bayesian GAN](https://github.com/andrewgordonwilson/bayesgan/)
 
 ### DiscoGAN [[Paper](https://arxiv.org/abs/1703.05192)]
 * [PyTorch implementation of Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
