@@ -70,6 +70,9 @@ Generative Adversarial Networks are very popular generative models which can be 
 ###  StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [[Paper](https://arxiv.org/pdf/1612.03242v1.pdf)]
 * [TensorFlow implementation of StackGAN](https://github.com/hanzhanggit/StackGAN)
 
+### End-to-end Adversarial Learning for Generative Conversational Agents [[Paper](https://arxiv.org/abs/1711.10122)]
+* [Keras implementation](https://arxiv.org/abs/1711.10122)
+
 ### Unsupervised Cross-Domain Image Generation [[Paper](https://arxiv.org/abs/1611.02200)]
 ### Generative Adversarial Nets from a Density Ratio Estimation Perspective [[Paper](https://arxiv.org/abs/1610.02920)]
 ### BCGAN : Bayesian Conditional Generative Adverserial Networks [[Paper](https://arxiv.org/abs/1706.05477)]
@@ -79,7 +82,10 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### Unrolled Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1611.02163)]
 ### TextureGAN : Controlling Deep Image Synthesis with Texture Patches [[Paper](https://arxiv.org/abs/1706.02823)]
 ### Temporal Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1611.06624v1)]
-
+### Recurrent Topic-Transition GAN for Visual Paragraph Generation [[Paper](https://arxiv.org/abs/1703.07022)]
+### Triangle Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1709.06548)]
+### AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1711.10485)]
+### Structured Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1711.00889)]
 
 
 ## Projects
