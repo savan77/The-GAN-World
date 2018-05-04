@@ -74,7 +74,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [TensorFlow implementation of StackGAN](https://github.com/hanzhanggit/StackGAN)
 
 ### End-to-end Adversarial Learning for Generative Conversational Agents [[Paper](https://arxiv.org/abs/1711.10122)]
-* [Keras implementation](https://arxiv.org/abs/1711.10122)
+* [Keras implementation](https://github.com/oswaldoludwig/Adversarial-Learning-for-Generative-Conversational-Agents)
 
 ### Unsupervised Cross-Domain Image Generation [[Paper](https://arxiv.org/abs/1611.02200)]
 ### Generative Adversarial Nets from a Density Ratio Estimation Perspective [[Paper](https://arxiv.org/abs/1610.02920)]
