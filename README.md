@@ -102,6 +102,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 
 ## Tutorials, Blogs and Talks
 * [NIPS 2016 Tutorial on Generative Adversarial Networks by Ian Goodfellow](https://arxiv.org/abs/1701.00160) - This tutorial by Ian Goodfellow (Inventor of GAN) covers almost everything you need to get started with Generative Adversarial Networks. You will get to know about- Why you should study generative models and GANs?, How GAN works?, Research frontiers in GANs and more. 
+* [GANs in Action: Deep learning with Generative Adversarial Networks](https://www.manning.com/books/gans-in-action) This book takes you from no knowledge of GANs to understanding and implementing some of the more advanced architectures at the practitioner level. Focus on applications and code.
 
 ### Blogs
 
