@@ -64,6 +64,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 * [TensorFlow and PyTorch implementation of Softmax GAN](https://github.com/wiseodd/generative-models/tree/master/GAN/softmax_gan)
 
 ### Cycle GAN [[Paper](https://arxiv.org/pdf/1703.10593.pdf)]
+* [PyTorch implementation of Cycle GAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 * [TensorFlow implementaion of Cycle GAN](https://github.com/XHUJOY/CycleGAN-tensorflow)
 * [Torch implementation of Cycle GAN](https://github.com/junyanz/CycleGAN)
 
@@ -76,6 +77,9 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### End-to-end Adversarial Learning for Generative Conversational Agents [[Paper](https://arxiv.org/abs/1711.10122)]
 * [Keras implementation](https://github.com/oswaldoludwig/Adversarial-Learning-for-Generative-Conversational-Agents)
 
+### StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[Paper](https://arxiv.org/abs/1711.09020)]
+* [PyTorch implementation of StarGAN](https://github.com/yunjey/StarGAN) 
+
 ### Unsupervised Cross-Domain Image Generation [[Paper](https://arxiv.org/abs/1611.02200)]
 ### Generative Adversarial Nets from a Density Ratio Estimation Perspective [[Paper](https://arxiv.org/abs/1610.02920)]
 ### BCGAN : Bayesian Conditional Generative Adverserial Networks [[Paper](https://arxiv.org/abs/1706.05477)]
@@ -84,6 +88,7 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### SketchGAN : Adversarial Training For Sketch Retrieval [[Paper](https://arxiv.org/abs/1607.02748)]
 ### Unrolled Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1611.02163)]
 ### TextureGAN : Controlling Deep Image Synthesis with Texture Patches [[Paper](https://arxiv.org/abs/1706.02823)]
+* [PyTorch implementation of TextureGAN](https://github.com/janesjanes/Pytorch-TextureGAN)
 ### Temporal Generative Adversarial Nets [[Paper](https://arxiv.org/abs/1611.06624v1)]
 ### Recurrent Topic-Transition GAN for Visual Paragraph Generation [[Paper](https://arxiv.org/abs/1703.07022)]
 ### Triangle Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1709.06548)]
@@ -133,6 +138,9 @@ Generative Adversarial Networks are very popular generative models which can be 
 ## Other Resources
 * [Last chapter of Deep Learning Book : Deep Generative Models](https://www.deeplearningbook.org/contents/generative_models.html)
 * [The GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347)
+* [How to Train a GAN? Tips and tricks to make GANs work.](https://github.com/soumith/ganhacks)
+* [Collection of generative models in PyTorch and TensorFlow](https://github.com/wiseodd/generative-models)
+* [keras Implementation of Generative Adversarial Networks](https://github.com/eriklindernoren/Keras-GAN)
 
 ## Contributing
 * Feel free to make pull requests or you can write me at **vsavan7@gmail.com**.
