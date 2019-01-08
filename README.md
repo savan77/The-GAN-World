@@ -94,8 +94,8 @@ Generative Adversarial Networks are very popular generative models which can be 
 ### Triangle Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1709.06548)]
 ### AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1711.10485)]
 ### Structured Generative Adversarial Networks [[Paper](https://arxiv.org/abs/1711.00889)]
-### Large Scale GAN Training for High Fidelity Natural Image Synthesis [[Paper](https://arxiv.org/abs/1809.11096)]
-* [PyTorch implementation](https://github.com/AaronLeong/BigGAN-pytorch)
+### BigGan: Large Scale GAN Training for High Fidelity Natural Image Synthesis [[Paper](https://arxiv.org/abs/1809.11096)]
+* [PyTorch implementation BigGan](https://github.com/AaronLeong/BigGAN-pytorch)
 
 
 ## Projects
